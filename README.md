@@ -13,7 +13,7 @@ Download the **MovieLens 100K** dataset from the official GroupLens website:
 Unzip it so that the `ml-100k` folder sits next to `ml_recommender.py`, for example:
 
 ```text
-movie-recommender-ml-100k/
+Recommendation System/
 │
 ├─ ml_recommender.py
 ├─ README.md
